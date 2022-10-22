@@ -1,5 +1,5 @@
-### Hi!👋
-# I'm Connor Hackenberg, a student, and a huge HomeLab enthusiast. I am currently studying to become a network egineer or system administrator.
+# Hi!👋
+## I'm Connor Hackenberg, a student, and a huge HomeLab enthusiast. I am currently studying to become a network egineer or system administrator.
 
 You might have seen my username *(MapGuy11)* pop around The Weather Channel community as I am one of the co-developers of the website [Weatherscan.tk](https://weatherscan.tk/) this allowed everyone to keep experiencing the nostalgia that was Weatherscan.
 
