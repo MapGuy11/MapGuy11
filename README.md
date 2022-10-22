@@ -1,17 +1,13 @@
-### Hi there 👋
-### I am working on this part please come back later.
+### Hi!👋
+# I'm Connor Hackenberg, a student, and a huge HomeLab enthusiast. I am currently studying to become a network egineer or system administrator.
 
-<!--
-**MapGuy11/MapGuy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You might have seen my username *(MapGuy11)* pop around The Weather Channel community as I am one of the co-developers of the website [Weatherscan.tk](https://weatherscan.tk/) this allowed everyone to keep experiencing the nostalgia that was Weatherscan.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Some Home Automation project.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: For inquiries on myself please visit my website. 
+- 🔭 I am currently working on rebuilding my home lab after a successful SSD upgrade to my server.
+- 🌱 I am currently learning in a Dual Enrollment vocational course on Systems Administration before I transfer out to a different school to finish my bachelors degree.
+- 📫 You can find me here on GitHub in the various repositories I am apart of. If you have a specific question, please visit my [website](https://connorhackenberg.tech) for all of my latest contact information. *(Please note: any spam or any not legitimate emails will be ignored and destroyed)* 
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I spend way too much time learning about things I love.
--->
+- ⚡ Fun fact: I like EV's, and Diesel Engines. *(Crazy Right?)*
+- I speak English (natively), and a little bit of Spanish.
+
+![Connor's GitHub stats]https://github-readme-stats.vercel.app/api?username=mapguy11&show_icons=true
