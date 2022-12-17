@@ -4,7 +4,7 @@
 You might have seen my username *(MapGuy11)* pop around The Weather Channel community as I am one of the co-developers of the website [Weatherscan.net](https://weatherscan.net/) that has allowed everyone to keep experiencing the nostalgia that was Weatherscan.
 
 - 🔭 I am currently working on saving friends money by dropping cable and having them buying their own equipment to improve Wi-Fi performance. Some are switching to FTTH services available in their area. I am so jealous with me just rocking my cable connection :)!
-- 🌱 I am currently learning in a Dual Enrollment vocational course on Systems Administration before I transfer out to a different school to finish my bachelors degree.
+- 🌱 I am currently learning in a Dual Enrollment vocational course on Systems Administration before I transfer out to a different school to finish my bachelors degree. I've been accepted to the school of my dreams! Pennsylvania College of Technology 🎉
 - 📫 You can find me here on GitHub in the various repositories I am apart of. If you have a specific question, please visit my [website](https://connorhackenberg.tech) for all of my latest contact information. *(Please note: any spam or any not legitimate emails will be ignored and destroyed)* 
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I like EV's, and Diesel Engines. *(Crazy Right?)*
