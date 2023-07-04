@@ -9,4 +9,4 @@ You might have seen my username *(MapGuy11)* pop around The Weather Channel comm
 - ⚡ Fun fact: I like EVs and Diesel Engines. *(Crazy Right?)*
 - I speak English (natively), and a little bit of Spanish.
 
-![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapguy11&show_icons=true&theme=onedark)
+![Connor's GitHub stats](https://stars.connorhackenberg.tech/api?username=mapguy11&show_icons=true&theme=onedark)
