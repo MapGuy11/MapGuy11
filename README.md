@@ -1,7 +1,7 @@
 # Hi!👋
 ## I'm Connor Hackenberg, a student, and a huge HomeLab enthusiast. I am currently studying to become a network engineer or systems administrator.
 
-You might have seen my username *(MapGuy11)* pop around The Weather Channel community as I am one of the co-developers of the website [Weatherscan.net](https://weatherscan.net/) that has allowed everyone to keep experiencing the nostalgia that was Weatherscan.
+You might have seen my username *(MapGuy11)* pop around various communities as I try to spend my time helping out free projects.
 
 - 🔭 I am currently devloping and onboard people onto a new weather focused streaming site!
 - 🌱 I am currently studying Network & Systems Administration at Pennsylvania College of Technology.
