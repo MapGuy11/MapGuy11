@@ -1,5 +1,5 @@
 # Hi!👋
-## I'm Connor Hackenberg, a student, and a huge HomeLab enthusiast. I am currently studying to become a network engineer or systems administrator.
+## I am a student, and a huge HomeLab enthusiast currently studying to become a network engineer or systems administrator.
 
 You might have seen my username *(MapGuy11)* pop around various communities as I try to spend my time helping out with free projects.
 
