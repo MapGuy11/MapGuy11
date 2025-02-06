@@ -1,5 +1,5 @@
 # Hi!👋
-## I am a student, and a huge HomeLab enthusiast, and currently studying to become a network engineer or systems administrator.
+## I am a huge HomeLab enthusiast student currently studying to become a network engineer or systems administrator.
 
 You might have seen my username *(MapGuy11)* pop around various communities as I try to spend my time helping out with different free projects.
 
